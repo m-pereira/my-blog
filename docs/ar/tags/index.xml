@@ -1,18 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on فلانة الفلانية</title>
+    <title>Tags on Website of Jane Doe</title>
     <link>https://m-pereira.github.io/my-blog/ar/tags/</link>
-    <description>Recent content in Tags on فلانة الفلانية</description>
+    <description>Recent content in Tags on Website of Jane Doe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://m-pereira.github.io/my-blog/ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="https://m-pereira.github.io/my-blog/ar/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>عربي</title>
-      <link>https://m-pereira.github.io/my-blog/ar/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</link>
+      <title>demo</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/demo/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/demo/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shortcode</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/shortcode/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/shortcode/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirect</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/redirect/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/redirect/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirectUrl</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/redirecturl/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/redirecturl/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/css/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/html/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/markdown/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/privacy/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/shortcodes/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/text/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://m-pereira.github.io/my-blog/ar/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</guid>
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/emoji/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>thumbnail</title>
+      <link>https://m-pereira.github.io/my-blog/ar/tags/thumbnail/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/ar/tags/thumbnail/</guid>
       
         <description></description>
       

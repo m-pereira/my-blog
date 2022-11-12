@@ -2,14 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://m-pereira.github.io/my-blog/awards/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/certifications/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://m-pereira.github.io/my-blog/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -18,30 +23,45 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-pereira.github.io/my-blog/"
+                href="https://m-pereira.github.io/my-blog/en/"
                 />
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/demo/</loc>
-    <lastmod>2022-03-18T21:47:41+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/demo/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://m-pereira.github.io/my-blog/ar/post/"
+                href="https://m-pereira.github.io/my-blog/ar/tags/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-pereira.github.io/my-blog/post/"
+                href="https://m-pereira.github.io/my-blog/en/tags/demo/"
                 />
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/shortcode/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/post/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/tags/shortcode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/tags/shortcode/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/</loc>
+    <lastmod>2022-03-18T21:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://m-pereira.github.io/my-blog/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -50,14 +70,19 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-pereira.github.io/my-blog/tags/"
+                href="https://m-pereira.github.io/my-blog/en/tags/"
                 />
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/notice-shortcode/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/post/notice-shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/series/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/series/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://m-pereira.github.io/my-blog/series/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -66,45 +91,70 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-pereira.github.io/my-blog/series/"
+                href="https://m-pereira.github.io/my-blog/en/series/"
                 />
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/series-part-2/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/post/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/series/series-setup/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/series/series-setup/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/series-part-1/</loc>
-    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/redirect/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/redirect/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/redirecturl/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/figure-shortcode/</loc>
-    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://m-pereira.github.io/my-blog/ar/archives/"
+                href="https://m-pereira.github.io/my-blog/ar/series/series-setup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-pereira.github.io/my-blog/archives/"
+                href="https://m-pereira.github.io/my-blog/en/series/series-setup/"
                 />
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/categories/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/post/series-part-1/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/redirect/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/tags/redirect/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/tags/redirect/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/post/redirect/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/redirecturl/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/tags/redirecturl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/tags/redirecturl/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/post/figure-shortcode/</loc>
+    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://m-pereira.github.io/my-blog/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -113,89 +163,179 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-pereira.github.io/my-blog/categories/"
+                href="https://m-pereira.github.io/my-blog/en/categories/"
                 />
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/css/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/contact/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://m-pereira.github.io/my-blog/ar/contact/"
+                href="https://m-pereira.github.io/my-blog/ar/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-pereira.github.io/my-blog/contact/"
+                href="https://m-pereira.github.io/my-blog/en/tags/css/"
                 />
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/math-typesetting/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/tags/html/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/post/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/categories/syntax/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/categories/themes/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/series/themes-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/series/themes-guide/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/tags/privacy/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/post/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/tags/shortcodes/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/post/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/tags/text/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/emoji/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/post/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/tags/emoji/"
+                />
+  </url><url>
+    <loc>https://m-pereira.github.io/my-blog/en/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://m-pereira.github.io/my-blog/post/image-test/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/thumbnail/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://m-pereira.github.io/my-blog/ar/tags/thumbnail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-pereira.github.io/my-blog/en/tags/thumbnail/"
+                />
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/about/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://m-pereira.github.io/my-blog/ar/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://m-pereira.github.io/my-blog/about/"
-                />
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/imprint/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/imprint/</loc>
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/tags/index/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -204,9 +344,9 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-pereira.github.io/my-blog/tags/index/"
+                href="https://m-pereira.github.io/my-blog/en/tags/index/"
                 />
   </url><url>
-    <loc>https://m-pereira.github.io/my-blog/portfolio/</loc>
+    <loc>https://m-pereira.github.io/my-blog/en/portfolio/</loc>
   </url>
 </urlset>

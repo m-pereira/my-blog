@@ -1,6 +1,6 @@
 baseURL = "https://m-pereira.github.io/my-blog/"
 languageCode = "en"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "pt"
 title = "Website of Jane Doe"
 
 # theme as hugo module

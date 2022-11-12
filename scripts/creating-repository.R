@@ -10,4 +10,10 @@ blogdown::new_site(".",
                    netlify = F, format = "toml")
 
 blogdown::build_site()
+## criar posts
+blogdown::new_post()
 blogdown::serve_site()
+blogdown::stop_server()
+
+
+

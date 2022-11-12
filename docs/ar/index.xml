@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>فلانة الفلانية</title>
-    <link>https://example.com/ar/</link>
+    <link>https://m-pereira.github.io/my-blog/ar/</link>
     <description>Recent content on فلانة الفلانية</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://m-pereira.github.io/my-blog/ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/ar/archives/</link>
+      <link>https://m-pereira.github.io/my-blog/ar/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/archives/</guid>
+      <guid>https://m-pereira.github.io/my-blog/ar/archives/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>للتواصل</title>
-      <link>https://example.com/ar/contact/</link>
+      <link>https://m-pereira.github.io/my-blog/ar/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/contact/</guid>
+      <guid>https://m-pereira.github.io/my-blog/ar/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>نموذج عربي</title>
-      <link>https://example.com/ar/post/arabic_example/</link>
+      <link>https://m-pereira.github.io/my-blog/ar/post/arabic_example/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/post/arabic_example/</guid>
+      <guid>https://m-pereira.github.io/my-blog/ar/post/arabic_example/</guid>
       
         <description>نص عربي سريع</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>حول</title>
-      <link>https://example.com/ar/about/</link>
+      <link>https://m-pereira.github.io/my-blog/ar/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/about/</guid>
+      <guid>https://m-pereira.github.io/my-blog/ar/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
       

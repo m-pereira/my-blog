@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://m-pereira.github.io/my-blog/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Jane Doe"
@@ -19,7 +19,7 @@ publishDir = "docs/"
 #googleAnalytics = "UA-123-45"
 
 # Syntax highlighting
-pygmentsUseClasses = true   
+pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 

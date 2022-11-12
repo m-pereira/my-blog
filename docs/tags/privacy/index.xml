@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>privacy on My blog</title>
-    <link>https://example.com/tags/privacy/</link>
+    <link>https://m-pereira.github.io/my-blog/tags/privacy/</link>
     <description>Recent content in privacy on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://m-pereira.github.io/my-blog/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content</title>
-      <link>https://example.com/post/rich-content/</link>
+      <link>https://m-pereira.github.io/my-blog/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/rich-content/</guid>
+      <guid>https://m-pereira.github.io/my-blog/post/rich-content/</guid>
       
         <description>A brief description of Hugo Shortcodes</description>
       

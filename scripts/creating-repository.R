@@ -9,3 +9,5 @@ blogdown::new_site(".",
                    theme = "lxndrblz/anatole",
                    netlify = F, format = "toml")
 
+blogdown::build_site()
+blogdown::serve_site()

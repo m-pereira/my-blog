@@ -1,12 +1,12 @@
 portfolioitems:
   # portfolio category
-  - title: Coding Projects
+  - title: Ciência de dados
     portfolioitem:
-      - name: Project 1
+      - name: Projeto 1
         image: '/images/portfolio/code.jpg'
         link: https://gohugo.io/
         linktext: 'Visit project website'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        description: 'Lore ipsum'
         tags:
           - Tag 1
           - Tag 2
@@ -16,10 +16,10 @@ portfolioitems:
         authors:
           - lxndrblz
           - alexanderdavide
-      - name: Project 2
+      - name: Projeto 2
         image: '/images/portfolio/code.jpg'
         link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        description: 'Lorem ipsum dolor'
         status: 'On Hold'
         tags:
           - Tag 1
@@ -27,14 +27,14 @@ portfolioitems:
       - name: Project 3
         link: https://gohugo.io/
         status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        description: 'Lorem ipsum dolor sit amet'
         tags:
           - Tag 1
           - Tag 2
   # portfolio category
-  - title: Research
+  - title: Econometria
     portfolioitem:
-      - name: Project 1
+      - name: Projeto 1
         image: '/images/portfolio/code.jpg'
         description: 'This project does not have a link attribute'
         tags:

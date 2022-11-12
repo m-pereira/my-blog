@@ -5,7 +5,7 @@ LanguageName = "EN"
 contentDir = "content/english"
 
 [pt]
-title = ""
+title = "Meu Blog"
 contentDir = "content/pt"
 weight = 2
 LanguageName = "PT"

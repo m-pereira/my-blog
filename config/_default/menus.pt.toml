@@ -8,19 +8,19 @@
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/post/"
+  url = "/pt/post/"
 
   [[main]]
   name = "Portfolio"
   weight = 300
   identifier = "portfolio"
-  url = "/portfolio/"
+  url = "/pt/portfolio/"
 
   [[main]]
   name = "About"
   weight = 400
   identifier = "about"
-  url = "/about/"
+  url = "/pt/about/"
 
   [[main]]
   name = "Accomplishments"
@@ -45,10 +45,10 @@
   name = "Contact"
   weight = 600
   identifier = "contact"
-  url = "/contact/"
+  url = "/pt/contact/"
 
   [[footer]]
   name = "imprint"
   weight = 1
   identifier = "imprint"
-  url = "/imprint/"
+  url = "/pt/imprint/"

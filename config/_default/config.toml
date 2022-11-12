@@ -1,7 +1,7 @@
 baseURL = "https://m-pereira.github.io/my-blog/"
 languageCode = "en"
 DefaultContentLanguage = "pt"
-title = "Website of Jane Doe"
+title = "Blog do Mateus"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"

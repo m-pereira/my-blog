@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on Meu Blog</title>
     <link>https://m-pereira.github.io/my-blog/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on Meu Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://m-pereira.github.io/my-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://m-pereira.github.io/my-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre mim</title>
+      <link>https://m-pereira.github.io/my-blog/tags/sobre-mim/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/tags/sobre-mim/</guid>
+      
+        <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

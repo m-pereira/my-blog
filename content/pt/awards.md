@@ -7,6 +7,8 @@ description: Reconhecimentos e publicações em detaque
 title: Reconhecimentos e publicações 
 ---
 
+
+
 Fui iniciação Científica (IC) por bastante tempo, portanto tenho bastante orgulho dos projetos de pesquisas que participei. Foi meu primeiro contato com dados e econometria, o que consolidou o conhecimento estatístico. Então entendo como importante compartilhar um pouco da minha jornada como IC e quais foram meus aprendizados.
 
 
@@ -30,4 +32,7 @@ Transferências governamentais e despesas públicas: evidências do efeito flypa
 
 * **CPA 20**: Apesar de não ter refeito a prova para manter a certificação, fui profissional Certificado Anbima 20 (CPA 20). Foi uma certificação que tirei quando estava em dúvidas sobre atuar em dados ou mercado financeiro, mas acabou se mostrando um conhecimento valioso como investidor, meus primeiros investimentos foram realizados no mesmo período, então cada tópico novo, era possível colocar em prática imediatamente.
 
+
+Conheça minhas redes sociais.
+- https://github.com/m-pereira
 

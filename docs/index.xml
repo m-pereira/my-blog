@@ -19,6 +19,17 @@
     </item>
     
     <item>
+      <title>Mateus além do currículo</title>
+      <link>https://m-pereira.github.io/my-blog/about/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://m-pereira.github.io/my-blog/about/</guid>
+      
+        <description>Page about youself</description>
+      
+    </item>
+    
+    <item>
       <title>Primeiro &#34;commit&#34;</title>
       <link>https://m-pereira.github.io/my-blog/post/2022-11-12-primeiro-commit/</link>
       <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
@@ -26,17 +37,6 @@
       <guid>https://m-pereira.github.io/my-blog/post/2022-11-12-primeiro-commit/</guid>
       
         <description>magia acontecendo</description>
-      
-    </item>
-    
-    <item>
-      <title>Sobre mim</title>
-      <link>https://m-pereira.github.io/my-blog/about/</link>
-      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://m-pereira.github.io/my-blog/about/</guid>
-      
-        <description>Mateus, um rapaz simpático</description>
       
     </item>
     
@@ -52,13 +52,13 @@
     </item>
     
     <item>
-      <title>Publicações</title>
+      <title>Reconhecimentos e publicações</title>
       <link>https://m-pereira.github.io/my-blog/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://m-pereira.github.io/my-blog/awards/</guid>
       
-        <description>Publicçções</description>
+        <description>Reconhecimentos e publicações em detaque</description>
       
     </item>
     

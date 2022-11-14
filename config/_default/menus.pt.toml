@@ -23,7 +23,7 @@
   url = "/about/"
 
   [[main]]
-  name = "Conquistas"
+  name = "Currículo"
   weight = 500
   identifier = "accomplishments"
 

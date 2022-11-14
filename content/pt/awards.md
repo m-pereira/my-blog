@@ -24,3 +24,10 @@ Primeiro: Pesquisar não é trivial, é uma atividade
 
 Transferências governamentais e despesas públicas: evidências do efeito flypaper para os municípios do Rio Grande do Sul entre 2008 e 2016. In: XXII ANPEC SUL, 2019, Maringá. XXII ANPEC SUL, 2019. Um trabalho que rendeu uma apresentação em um grande evento de economia e a premiação regional de melhores 40 trabalhos apresentados na JAI.
 
+
+
+## Certificações
+
+* **CPA 20**: Apesar de não ter refeito a prova para manter a certificação, fui profissional Certificado Anbima 20 (CPA 20). Foi uma certificação que tirei quando estava em dúvidas sobre atuar em dados ou mercado financeiro, mas acabou se mostrando um conhecimento valioso como investidor, meus primeiros investimentos foram realizados no mesmo período, então cada tópico novo, era possível colocar em prática imediatamente.
+
+

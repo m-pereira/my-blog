@@ -7,7 +7,17 @@ description: Cerficações
 title: Certificações
 ---
 
-## CPA 20
+Economista de formação, cientista de dados por destino
 
-Apesar de não ter refeito a prova para manter a certificação, fui profissional Certificado Anbima 20 (CPA 20). Foi uma certificação que tirei quando estava em dúvidas sobre atuar em dados ou mercado financeiro, mas acabou se mostrando um conhecimento valioso como investidor, meus primeiros investimentos foram realizados no mesmo período, então cada tópico novo, era possível colocar em prática imediatamente.
+# Experiência
+ * Cientista de dados no Sicredi, atuando em modelos de séries temporais, com o *framework* `modeltime` em previsão de crédito, bem como modelos de classificação para estratégia de expansão geográfica, ainda realizando o desenvolvimento de *dashboards* em `Power BI`.
+ 
+ * Analista de dados pela STARS aceleradora por um ano, atuando com modelos modelos de *machine learning* supervisionados e não supervisionados, gerando relatórios internos em `Shiny`. 
+ 
+ * Iniciação Científica por 2 anos na UFSM, com publicações nas áreas de políticas públicas, educação e finanças, a partir de modelos de séries temporais e dados em painel, prezando pelo *open science*, divulgando *scripts* em `R`.
+ 
+
+# Formação acadêmica
+ * Graduado em Ciências Econômicas pela Universidade Federal de Santa Maria (UFSM).
+
 

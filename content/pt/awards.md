@@ -20,7 +20,7 @@ Primeiro: Pesquisar não é trivial, é uma atividade
 * Artigo: **TRANSFERÊNCIAS CONSTITUCIONAIS E ARRECADAÇÃO PÚBLICA: ANÁLISE COMPARATIVA DO FPM NOS MUNICÍPIOS DO RIO GRANDE DO SUL ENTRE 2009 E 2016**. ESTUDO & DEBATE (ONLINE), v. 26, p. ", 2019. Esse foi meu primeiro trabalho, uma introdução importante na pesquisa e valorização da análise descritiva.
 
 
-* Trabalhos apresentados em eventos
+# Trabalhos apresentados em eventos
 
 Transferências governamentais e despesas públicas: evidências do efeito flypaper para os municípios do Rio Grande do Sul entre 2008 e 2016. In: XXII ANPEC SUL, 2019, Maringá. XXII ANPEC SUL, 2019. Um trabalho que rendeu uma apresentação em um grande evento de economia e a premiação regional de melhores 40 trabalhos apresentados na JAI.
 

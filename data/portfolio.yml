@@ -2,55 +2,48 @@ portfolioitems:
   # portfolio category
   - title: Ciência de dados
     portfolioitem:
-      - name: Projeto 1
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
+      - name: Forecast em escala
+        image: '/images/forecast.png'
+        link: https://github.com/m-pereira/forecast-credit
         linktext: 'Visit project website'
-        description: 'Lore ipsum'
+        description: 'O projetado estima o mercado de crédito por UF, a análise compara modelos nested e modelos de ML para em previsão de séries temporais. A principalmente é a escalabilidade, o mesmo tipo de análise serve tanto para 27 UF, como os 5700 municípios do Brasil. O projeto é end to end, desde a importação dos dados, wrangling até a estapa de modelagem e previsão'
         tags:
-          - Tag 1
-          - Tag 2
+          - Séries temporais
+          - Forecast
+          - Escalabilidade
         status: 'Finished'
-        start: '2020'
-        end: '2021'
+        start: '2022'
+        end: '2022'
         authors:
-          - lxndrblz
-          - alexanderdavide
+          - Mateus Pereira
       - name: Projeto 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
+        link: https://github.com/m-pereira/security-analysis
         description: 'Lorem ipsum dolor'
         status: 'On Hold'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
+          - Classificação
+          - Random Forest
+      - name: Cluster analysis
         link: https://gohugo.io/
-        status: 'Finished'
+        status: 'About to start'
         description: 'Lorem ipsum dolor sit amet'
         tags:
-          - Tag 1
-          - Tag 2
+          - Cluster analysis
+          - Mixed Mixture
   # portfolio category
   - title: Econometria
     portfolioitem:
-      - name: Projeto 1
-        image: '/images/portfolio/code.jpg'
-        description: 'This project does not have a link attribute'
+      - name: Impulso resposta
+        link: https://github.com/m-pereira/
+        status: 'About to start'
+        description: 'Modelo VAR'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
+          - VAR
+          - IRF
+      - name: Inferência causal
+        link: https://github.com/m-pereira/
+        status: 'About to start'
+        description: 'Inferência causal'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
-        tags:
-          - Tag 1
-          - Tag 2
+          - Inferência causal
+          - Diff in Diff

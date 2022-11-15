@@ -26,10 +26,6 @@ Sobre análise de dados eu busco sempre entender o comportamento das variáveis 
 A pergunta mais clássica em entrevistas de ciência de dados é a linguagem de progração. Digo que preferencialmente uso o `R`, estou mais acostumado com a sintaxe e como prefiro o simples, `tidyverse` e `tidymodels`geralmente atendem as demandas, mas quando me deparo com uma tarefa que acho que `Python` executa melhor, ou estou trabalhando com usuários de `Python`, opto pela linguagem. 
 
 
-Conheça minhas redes sociais.
-- https://github.com/m-pereira
-
-
 
 # Hobbies 
 
@@ -41,3 +37,7 @@ Apesar de chamar Investir de hobby eu encaro mais como estilo de vida, não cons
 
 
 Como passo bastante tempo na internet são muitos os blogs  que acesso, mas sobre dados acompanho bastante a Julia Silge, Max Kuhn e Analytis Vidhya. Mas confesso que passo mais tempo no XKCD e Reddit. 
+
+
+* Deseja me conhecer mais? Entra em contato no Linkedin <https://www.linkedin.com/in/mateus-pereira-8a33512b/> ou olha meus projetos no Github <https://github.com/m-pereira>
+

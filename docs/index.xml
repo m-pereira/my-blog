@@ -6,13 +6,13 @@
     <description>Recent content on Mateus Pereira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://m-pereira.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://m-pereira.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Forecsat at scale</title>
-      <link>https://m-pereira.github.io/my-blog/2022-11-16-forecsat-at-scale/</link>
+      <title>Forecast at scale</title>
+      <link>https://m-pereira.github.io/my-blog/post/2022-11-16-forecast-at-scale/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://m-pereira.github.io/my-blog/2022-11-16-forecsat-at-scale/</guid>
+      <guid>https://m-pereira.github.io/my-blog/post/2022-11-16-forecast-at-scale/</guid>
       
         <description>Cada vez mais empresas previsam de previsões em centenas e até milhares de produtos, entretanto fazer previsões com qualidade não é tão fácil.</description>
       

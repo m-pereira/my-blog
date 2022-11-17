@@ -1,5 +1,5 @@
 ---
-title: Forecsat at scale
+title: Forecast at scale
 author: Mateus Pereira
 date: '2022-11-16'
 slug: []

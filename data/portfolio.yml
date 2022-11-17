@@ -6,7 +6,7 @@ portfolioitems:
         image: '/images/forecast.png'
         link: https://github.com/m-pereira/forecast-credit
         linktext: 'Visit project website'
-        description: 'O projetado estima o mercado de crédito por UF, a análise compara modelos nested e modelos de ML para em previsão de séries temporais. A principalmente é a escalabilidade, o mesmo tipo de análise serve tanto para 27 UF, como os 5700 municípios do Brasil. O projeto é end to end, desde a importação dos dados, wrangling até a estapa de modelagem e previsão'
+        description: 'Fazer milhares de previsões de qualidade é uma tarefa complexa, ainda bem que posso lhe ajudar. O projeta estima o mercado de crédito por UF, a análise compara modelos nested e modelos de ML para em previsão de séries temporais. A principalmente é a escalabilidade, o mesmo tipo de análise serve tanto para 27 UF, como os 5700 municípios do Brasil. O projeto é end to end, desde a importação dos dados, wrangling até a estapa de modelagem e previsão'
         tags:
           - Séries temporais
           - Forecast
@@ -16,9 +16,9 @@ portfolioitems:
         end: '2022'
         authors:
           - Mateus Pereira
-      - name: Projeto 2
+      - name: Classificação
         link: https://github.com/m-pereira/security-analysis
-        description: 'Lorem ipsum dolor'
+        description: 'Projeto voltado ao mercado de seguros. Como classificar o risco?'
         status: 'On Hold'
         tags:
           - Classificação
@@ -26,7 +26,7 @@ portfolioitems:
       - name: Cluster analysis
         link: https://gohugo.io/
         status: 'About to start'
-        description: 'Lorem ipsum dolor sit amet'
+        description: 'Análise de cluster é uma estratégia excelente para segmentação. Como aplicar isso em uma análise de portfólio no mercado financeiro?'
         tags:
           - Cluster analysis
           - Mixed Mixture
@@ -36,14 +36,14 @@ portfolioitems:
       - name: Impulso resposta
         link: https://github.com/m-pereira/
         status: 'About to start'
-        description: 'Modelo VAR'
+        description: 'Modelo VAR é uma ferramenta incrível para entender a relação de políticas macroeconômicas, como o juros afeta a inflação?'
         tags:
           - VAR
           - IRF
       - name: Inferência causal
         link: https://github.com/m-pereira/
         status: 'About to start'
-        description: 'Inferência causal'
+        description: 'Definir causalidade não é trivial, Inferência causal é tudo, menos fácil.'
         tags:
           - Inferência causal
           - Diff in Diff

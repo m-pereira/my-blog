@@ -16,13 +16,15 @@ portfolioitems:
         end: '2022'
         authors:
           - Mateus Pereira
-      - name: Classificação
-        link: https://github.com/m-pereira/security-analysis
-        description: 'Projeto voltado ao mercado de seguros. Como classificar o risco?'
-        status: 'On Hold'
+      - name: Classificação de risco
+        link: https://github.com/m-pereira/credit-risk
+        description: 'O projeto busca realizar prever possíveis inadimplentes a partir de uma base de clientes bancárias disponibilizadas no Kaggle: https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset. Para solucionar o problema, desenvolvi algoritmos de classificação com dois modelos, um random forest e um decision tree, para provar que as vezes o simples funciona. Também criei uma API pelo plumber para consumo do modelo e deixei pronto um Dockerfile que será usado para um deploy na Google Cloud. Futuramente deixarei o link do app disponível.'
+        status: 'Finished'
         tags:
           - Classificação
           - Random Forest
+          - Decision Tree
+          - Credit-risk
       - name: Cluster analysis
         link: https://gohugo.io/
         status: 'About to start'

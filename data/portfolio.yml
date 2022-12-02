@@ -26,12 +26,15 @@ portfolioitems:
           - Decision Tree
           - Credit-risk
       - name: Cluster analysis
-        link: https://gohugo.io/
+        link: https://github.com/m-pereira/stock-cluster-analysis
         status: 'About to start'
-        description: 'Análise de cluster é uma estratégia excelente para segmentação. Como aplicar isso em uma análise de portfólio no mercado financeiro?'
+        description: 'Quais ténicas de machine Learning podem nos ajudar a fazer análise de ações? Nesse projeto utilizo técnicas de aprendizado não supervisionado e técnicas estatísticas para montar um portfólio de ações vencedor!'
         tags:
           - Cluster analysis
           - Mixed Mixture
+          - Principal Componente Analysis
+          - Value At Risk
+          - Portfolio optimization
   # portfolio category
   - title: Econometria
     portfolioitem:

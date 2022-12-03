@@ -20,7 +20,7 @@ Como descrito na aba de experiência, fui iniciação Científica (IC) por basta
 # Trabalhos apresentados em eventos
 
 
- * Apresentação Eficiência de mercado, Google Trends e algorithm trading: Abordagem VEC-VAR. 2021. (Apresentação de Trabalho/Congresso). É um trabalho fruto da monografia, apresentar esse trabalho na Conferências Internacional de Finanças foi muito bom. Ali senti que todo esforço de horas tarde da noite lendo manuais, scripta e artigos valeu a pena.
+ * Apresentação Eficiência de mercado, Google Trends e algorithm trading: Abordagem VEC-VAR. 2021. (Apresentação de Trabalho/Congresso). É um trabalho fruto da monografia, apresentar esse trabalho na Conferências Internacional de Finanças foi muito bom. Ali senti que todo esforço de horas até tarde da noite lendo manuais, scripts e artigos valeu a pena.
 
  * Apresentação: Transferências governamentais e despesas públicas: evidências do efeito flypaper para os municípios do Rio Grande do Sul entre 2008 e 2016. In: XXII ANPEC SUL, 2019, Maringá. XXII ANPEC SUL, 2019. Um trabalho que rendeu uma apresentação em um grande evento de economia e a premiação regional de melhores 40 trabalhos apresentados na JAI.
 
